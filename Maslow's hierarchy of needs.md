@@ -10,7 +10,7 @@
 
 ### Attached Hypothesis
 
-1. Needs in different level motivates human action, however the highest level acts as the most significate one.
+1. Needs in different level motivate human action at the same time, however the highest level acts as the most significate one.
 2. The needs are mostly unconscious to human. However the unconscious motivation  takes up most of the decision of human. So that they are more important than conscious motivation.
 
 ## 2.Graph&&Detailed information
